@@ -20,8 +20,8 @@
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-tiwari-1971&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-tiwari-1971&layout=compact&theme=radical)
-![Languages Card](https://github.com/vishal-tiwari-1971/github-trends/blob/main/docs/API.md#languages-card)
-![Repositories Card](https://github.com/vishal-tiwari-1971/github-trends/blob/main/docs/API.md#repositories-card)
+![GitHub statistics](https://github.com/vishal-tiwari-1971/vishal-tiwari-1971/blob/main/github-wrapped.png)
+
 
 
 ## 🌐 Connect With Me
